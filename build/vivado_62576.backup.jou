@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Wed Feb 15 13:50:54 2023
+# Process ID: 62576
+# Current directory: M:/workspace/zynq7020_basic_examples/non_project_mode/build_project
+# Command line: vivado.exe -mode batch -source build.tcl
+# Log file: M:/workspace/zynq7020_basic_examples/non_project_mode/build_project/vivado.log
+# Journal file: M:/workspace/zynq7020_basic_examples/non_project_mode/build_project\vivado.jou
+#-----------------------------------------------------------
+source build.tcl

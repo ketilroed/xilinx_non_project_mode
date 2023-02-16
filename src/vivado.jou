@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue Feb 14 19:08:42 2023
+# Process ID: 143311
+# Current directory: /mn/fys-server1/a8/ketilroe/workspace/zynq7020_basic_examples/non_project_mode/src
+# Command line: vivado
+# Log file: /mn/fys-server1/a8/ketilroe/workspace/zynq7020_basic_examples/non_project_mode/src/vivado.log
+# Journal file: /mn/fys-server1/a8/ketilroe/workspace/zynq7020_basic_examples/non_project_mode/src/vivado.jou
+# Running On: fpga.uio.no, OS: Linux, CPU Frequency: 3600.000 MHz, CPU Physical cores: 12, Host memory: 33002 MB
+#-----------------------------------------------------------
+start_gui
+open_project /mn/fys-server1/a8/ketilroe/workspace/zynq7020_basic_examples/hdl_blinking_led/vivado/blinking_led/blinking_led.xpr
+update_compile_order -fileset sources_1

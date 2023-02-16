@@ -25,6 +25,7 @@ place_design
 # rout design
 route_design
 
+
 # write out bitfile
 write_debug_probes -force my_proj.ltx
 write_bitstream -force my_proj.bit

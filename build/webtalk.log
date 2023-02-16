@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Nov 25 12:15:51 2022
+# Process ID: 52816
+# Current directory: M:/workspace/zynq7020_basic_examples/non_project_mode/build_project
+# Command line: wbtcv.exe -mode batch -source M:/workspace/zynq7020_basic_examples/non_project_mode/build_project/.Xil/Vivado-47676-fyspc-elg004/webtalk/labtool_webtalk.tcl -notrace
+# Log file: M:/workspace/zynq7020_basic_examples/non_project_mode/build_project/webtalk.log
+# Journal file: M:/workspace/zynq7020_basic_examples/non_project_mode/build_project\webtalk.jou
+#-----------------------------------------------------------
+source M:/workspace/zynq7020_basic_examples/non_project_mode/build_project/.Xil/Vivado-47676-fyspc-elg004/webtalk/labtool_webtalk.tcl -notrace
+INFO: [Common 17-186] 'M:/workspace/zynq7020_basic_examples/non_project_mode/build_project/.Xil/Vivado-47676-fyspc-elg004/webtalk/usage_statistics_ext_labtool.xml' has been successfully sent to Xilinx on Fri Nov 25 12:15:56 2022. For additional details about this file, please refer to the WebTalk help file at C:/Xilinx/Vivado/2021.1/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Fri Nov 25 12:15:56 2022...
